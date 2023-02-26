@@ -1,10 +1,3 @@
-// --== CS400 Project One File Header ==--
-// Name: Adam Lewandowski
-// CSL Username: alewandowski
-// Email: aclewandowsk@wisc.edu
-// Lecture #: 002 @1:00pm
-// Notes to Grader: <any optional extra notes to your grader>
-
 /**
  * Instances of classes that implement this interface represent a single 
  * streaming show object that can be stored, sorted, and searched for based on 
