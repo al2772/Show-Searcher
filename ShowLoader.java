@@ -1,9 +1,3 @@
-// --== CS400 Project Two File Header ==--
-// Name: Rashed Almansoori
-// CSL Username: rashed
-// Email: ralmansoori@wisc.edu
-// Lecture #: 002
-// Notes to Grader: N/A
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
